@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="250" href="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
 <!--
 **easylaneof/easylaneof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
