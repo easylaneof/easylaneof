@@ -1,5 +1,5 @@
 ## About me
-18 y.o., ITMO university, AMCS 1 grade
+18 y.o., ITMO university, AMCS 1 year
 
 Had an internship at JetBrains
 
