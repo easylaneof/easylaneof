@@ -1,3 +1,1 @@
-<p align="center">
-  <img width="250" href="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
-</p>
+[![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=easylaneof)](https://github.com/anuraghazra/github-readme-stats)
