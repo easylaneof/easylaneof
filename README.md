@@ -1,5 +1,5 @@
 ## About me
-18 y.o., ITMO university, AMCS 1 year. [CV](cv_ru.pdf)
+18 y.o., ITMO university, AMCS 1 year. **[CV](cv_ru.pdf)**
 
 Had an internship at JetBrains
 
