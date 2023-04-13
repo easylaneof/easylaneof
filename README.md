@@ -1,9 +1,7 @@
 ## About me
-18 y.o., ITMO university, AMCS 1 year
+18 y.o., ITMO university, AMCS 1 year. [CV](cv_ru.pdf)
 
 Had an internship at JetBrains
-
-[cv](cv.pdf)
 
 ## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
